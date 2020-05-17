@@ -1,2 +1,3 @@
 # GWD-MaskRCNN
-Global Wheat Detection in Mask-RCNN
+This is a baseline Matterport Keras implementation of Mask-RCNN for Global Wheat Detection task.
+
